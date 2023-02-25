@@ -1,0 +1,8 @@
+plain text - cipher text=encrypt
+cipher text - plain text = decrypt
+
+
+crypto
+	i)symmetric-key 
+	ii)asymmentic-key
+	iii)hash function

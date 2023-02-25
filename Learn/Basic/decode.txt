@@ -10,3 +10,4 @@ rot13
 morse code
 decimal | BCD
 rot47
+vigenere decode

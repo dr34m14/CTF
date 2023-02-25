@@ -1,0 +1,32 @@
+caesar cipher 
+	word=word+3
+	a-->d
+	b-->f
+rot13
+vigenere cipher
+morse code
+bacon cipher
+alphabetical substitution
+
+//asymmetric -openssl
+RSA algo
+
+///hash tools-hashcat,john the ripper
+ md5
+sha-1
+sha-256
+whirpool
+shake
+has-160
+
+
+
+
+//encoder system
+base64
+binary
+base32
+hexadecimal
+AES
+DES
+
