@@ -1,0 +1,12 @@
+https://gchq.github.io/CyberChef/
+
+
+binary
+base32
+base64
+hexadecimal 
+base16
+rot13
+morse code
+decimal | BCD
+rot47
