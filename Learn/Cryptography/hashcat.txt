@@ -2,7 +2,7 @@
 -a attack mode
 -o output
 hashcat -m hashmode -a attackmode -o save_file target_file worldlist
-
+hashcat -m hash.txt /usr/share/wordlists/rockyou.txt --force -O
 
 unzip rokyou
 sudo gzip -d file.gz
