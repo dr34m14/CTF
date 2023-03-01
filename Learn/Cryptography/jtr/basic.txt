@@ -1,0 +1,12 @@
+single creak john --single file.txt
+wordlist mode 
+incremental john --incremental file.txt
+
+john --show file.txt
+
+
+//hash decode
+john --format=hash_tyoe  --wordlist=file hashfile
+
+
+locate .pot 
