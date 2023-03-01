@@ -1,0 +1,19 @@
+2 prime num p,q
+n=p*q
+phi(n)=(p-1)(q-1)
+int e 1<e<phi(n) e is co prime of phi(n)
+d=(1+xphi(n))/e
+
+
+n is the modulus for public key and private key
+e use as public key exponent
+d use as provate key exponent
+
+
+//encryting 
+chiper , c=(m^e) mod n
+//decrypting
+m=(c^d) mod n
+
+//factor c >> p,q
+factordb.com

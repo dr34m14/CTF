@@ -1,0 +1,6 @@
+hashid hash -m -j
+-m for mode in hashcat
+-j jon the riper format
+
+
+haiti hash
