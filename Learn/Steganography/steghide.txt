@@ -1,0 +1,46 @@
+//add info
+steghide embed -cf file.jpg -ef info.file -p password
+steghide extract -sf file.jpg
+
+//web
+https://zxing.org/w/decode.jspx
+
+//tools
+xiao
+cryture
+steghide
+zsteg
+openstego
+foremost
+sonic visualizer
+binwalk
+exiftool
+stegsolve
+//commands
+strings
+
+
+file file.file
+
+//room 
+cc:steganography
+musical stego
+cicada-3301 vol:1
+
+
+
+
+//steghide
+zip file
+jpg
+//zsteg
+gem install zsteg
+png ,BMP
+
+//exiftool
+info get from file
+//stegoveritas
+pip3 install stegoveritas
+stegoveritas_install_deps
+for metadata
+stegoveritas -steghide file
