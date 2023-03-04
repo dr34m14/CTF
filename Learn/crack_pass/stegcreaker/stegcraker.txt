@@ -1,0 +1,10 @@
+****jpg,mp3,mp4****
+
+
+
+pip3 install stegcracker
+pip3 install stegcracker -U --force-reinstall
+
+stegcracker file wordlist
+
+/usr/share/wordlist/rockyou.txt
