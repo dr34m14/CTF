@@ -1,0 +1,2 @@
+rar2jogh rarfile.rar >rar.hash.txt
+john rar.hash.txt --wordlist=

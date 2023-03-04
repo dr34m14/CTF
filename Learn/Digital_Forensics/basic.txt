@@ -1,0 +1,6 @@
+file analysis || file signature-- Hxd tools
+memory dump analysis
+stegnograghy
+network packet capture analysis
+meta data -- exiftool
+disk imaging
