@@ -1,0 +1,16 @@
+.pcap
+wireshark 
+follow =>http stream
+
+
+filter
+ ip addr== address
+ ip src== address
+
+protocol.port ==port
+
+file>export object>http,smb,tftb
+
+http.request.method == GET
+
+eapol //new device conection
