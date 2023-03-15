@@ -8,7 +8,7 @@ filter
  ip src== address
 
 protocol.port ==port
-
+http,ftp,usb,ssh,icmp,tcp/ip
 file>export object>http,smb,tftb
 
 http.request.method == GET
