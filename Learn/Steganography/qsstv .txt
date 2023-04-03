@@ -1,0 +1,2 @@
+apt-get install qsstv
+paplay -d virtual-cable message.wav 
